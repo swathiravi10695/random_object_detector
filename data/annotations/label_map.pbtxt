@@ -1,24 +1,34 @@
 item {
     id: 1
-    name: 'backpack'
+    name: 'Female'
 }
 
 item {
     id: 2
-    name: 'calculator'
+    name: 'Male'
 }
 
 item {
     id: 3
-    name: 'computer_mouse'
+    name: 'backpack'
 }
 
 item {
     id: 4
-    name: 'pc_monitor'
+    name: 'calculator'
 }
 
 item {
     id: 5
+    name: 'computer_mouse'
+}
+
+item {
+    id: 6
+    name: 'pc_monitor'
+}
+
+item {
+    id: 7
     name: 'watch'
 }
