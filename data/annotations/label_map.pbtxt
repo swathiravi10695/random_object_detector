@@ -23,3 +23,7 @@ item {
     id: 5
     name: 'watch'
 }
+item {
+    id: 6
+    name: 'laptop'
+}
